@@ -8,4 +8,4 @@ The purpose of this application is to write, save, and delete notes
 
 ## Screenshots of Application:
 ![screenshot](/public/assets/images/ss1.png)
-![screenshot2](/public/assets/images/ss2.png)
+![screenshot2](/public/assets/images/ss20.png)
